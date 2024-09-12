@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Computer science student
 <!--
 **pltcmyfpdfybt/pltcmyfpdfybt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
